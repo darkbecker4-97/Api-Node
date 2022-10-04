@@ -15,3 +15,7 @@ export const nome = (req: Request, res: Response) => {
     let nome: string = req.params.nome;
     res.json({ nome: nome });
 }
+
+export const createPhrase = (req: Request, res: Response) => {
+
+}
