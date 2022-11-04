@@ -1,0 +1,5 @@
+- O usuário seleciona um arquivo no campo.
+- O usuário efetua o envio do arquivo.
+- O serviddor RECEBE esses bytes, junta tudo e forma novamente o arquivo.
+- O sistema decide o que fazer com o arquivo recém-recebido.
+- Manipula o arquivo.
